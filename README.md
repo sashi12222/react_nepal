@@ -96,7 +96,31 @@ src/
 
 ## 🌟 Live Demo
 
-👉 **[View Live Application](https://68869c9e6d69ea8b6bece4fa--remarkable-biscotti-124caa.netlify.app/day23/)**
+👉 **[View Live Application](https://react-nepal-five.vercel.app/)**
+
+## 🎥 Demo Video
+
+Watch the application in action:
+
+### Option 1: Direct Video Link
+
+📹 **[Download Demo Video](https://react-nepal-five.vercel.app/map.mp4.mp4)**
+
+### Option 2: Video Preview
+
+<video width="100%" controls>
+  <source src="https://react-nepal-five.vercel.app/map.mp4.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+_The video demonstrates:_
+
+- Interactive province selection
+- Hover effects and tooltips
+- Toast notifications
+- Responsive behavior across different screen sizes
+
+> **Note:** If the embedded video doesn't load, you can [view it directly](https://react-nepal-five.vercel.app/map.mp4.mp4) or find it in the `public/` folder of this repository.
 
 ## � Contributing
 
